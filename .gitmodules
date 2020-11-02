@@ -1,0 +1,3 @@
+[submodule "mosa"]
+	path = mosa
+	url = git@github.com:Stelzi79/MOSA-Project.git
